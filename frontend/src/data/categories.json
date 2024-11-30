@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Graphic Design"
+    },
+    {
+      "id": "2",
+      "name": "Art & Design"
+    },
+    {
+      "id": "3",
+      "name": "Marketing"
+    },
+    {
+      "id": "4",
+      "name": "Music"
+    },
+    {
+      "id": "5",
+      "name": "Computer Science"
+    },
+    {
+      "id": "6",
+      "name": "History & Archaeology"
+    },
+    {
+      "id": "7",
+      "name": "Business Administration"
+    },
+    {
+      "id": "8",
+      "name": "Web Management"
+    },
+    {
+      "id": "9",
+      "name": "Information Software"
+    },
+    {
+      "id": "10",
+      "name": "UI/UX Design Courses"
+    },
+    {
+      "id": "11",
+      "name": "Software Engineering"
+    },
+    {
+      "id": "12",
+      "name": "Health & Fitness"
+    }
+  ]
+}

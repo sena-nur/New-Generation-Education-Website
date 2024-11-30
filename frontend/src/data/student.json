@@ -1,0 +1,56 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "image": "https://pbs.twimg.com/media/FjU2lkcWYAgNG6d.jpg",
+      "email": "alicejohnson@gmail.com",
+      "password": "123456",
+      "phone": "1234567890",
+      "birth": "1990-01-01",
+      "gender": "female",
+      "location": "New York, USA",
+      "profession": "Web Developer",
+      "info": "I am a professional web developer with 10 years of experience. I love teaching and helping others learn new skills."
+    },
+    {
+      "id": 2,
+      "name": "Brian Taylor",
+      "image": "https://r2.erweima.ai/imgcompressed/compressed_cec19c80b2492ff3fb18155374e104db.webp",
+      "email": "briantaylor@example.com",
+      "password": "654321",
+      "phone": "9876543210",
+      "birth": "1988-04-22",
+      "gender": "male",
+      "location": "Los Angeles, USA",
+      "profession": "Software Developer",
+      "info": "Software developer with a passion for mobile applications and open source projects."
+    },
+    {
+      "id": 3,
+      "name": "Clara White",
+      "image": "https://storage.googleapis.com/pfpai/styles/e0311f22-2642-4f56-8417-8c336ff0861f.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=headshotpro-backend-production%40stockai-362303.iam.gserviceaccount.com%2F20240508%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240508T024655Z&X-Goog-Expires=518400&X-Goog-SignedHeaders=host&X-Goog-Signature=3081fae15c56ec195688bb0b4208b72944b6b2f9d260a8081e9632fbc0773d993b5634ba489e5b89f3677387e77302b9861243a1dc7aaf036765624b3aea60155d09d12b84325824727e6a16167ecc63e3b68292708213b5c6293188a15b7e83cbfb3a1237eeb648427b848bb89ce0c4665a5532342bbbd8f6098eae3843ac2752c4aa8e8550a03da18c547aa491e3f91b79d9a9cdf9f0de1235b8e8cbe2e108d7b9c74c9d7942cec9af8df4214dfa16662eccae7adc679f9ea5a5b8e6a9599319e46666c560cb53a18ecf2a4a73332fd6ccf41150a9343f96e7f002704404bb57f5c61d031bfe62cc77b3933aaf1aca0f4aae7e0dabcd306826833eb9603c0c",
+      "email": "clarawhite@example.com",
+      "password": "password789",
+      "phone": "1231231234",
+      "birth": "1992-07-18",
+      "gender": "female",
+      "location": "Chicago, USA",
+      "profession": "UI/UX Designer",
+      "info": "UI/UX designer with 5 years of experience in creating intuitive and user-friendly designs."
+    },
+    {
+      "id": 4,
+      "name": "Derek Black",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxV6bni34KYFjcI7HHK6OEy24eLK0KBwtAG_pvrTOvA&s",
+      "email": "derekblack@example.com",
+      "password": "abc123",
+      "phone": "3213214321",
+      "birth": "1985-12-05",
+      "gender": "male",
+      "location": "Miami, USA",
+      "profession": "Cloud Engineer",
+      "info": "Experienced Cloud Engineer specializing in AWS and cloud infrastructure services."
+    }
+  ]
+}

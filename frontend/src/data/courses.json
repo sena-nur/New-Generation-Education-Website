@@ -1,0 +1,330 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "instructorId": "1",
+      "instructorName": "Harold Cooplowski",
+      "title": "The Complete Web Development Bootcamp",
+      "description": "I have 20 years of experience in data analysis and machine learning. I enjoy sharing knowledge and insights.I have 20 years of experience in data analysis and machine learning. I enjoy sharing knowledge and insights.I have 20 years of experience in data analysis and machine learning. I enjoy sharing knowledge and insights.I have 20 years of experience in data analysis and machine learning. I enjoy sharing knowledge and insights.",
+      "image": "https://th.bing.com/th/id/OIP.FGY-tdNJjLmruCG1Xy0XuQHaEK?rs=1&pid=ImgDetMain",
+      "lessons": "12",
+      "rating": "4",
+      "InstructorPhoto": "student.png",
+      "plan": [
+        "This plan is perfect for those who are completely new to web development. It covers the fundamentals of HTML, CSS, and JavaScript to give you a solid foundation to build upon.",
+        "If you already have some experience with web development basics, this plan will help you take your skills to the next level. It dives deeper into responsive design, web accessibility, and working with frameworks like React.",
+        "For experienced developers looking to master advanced techniques, this plan covers topics like server-side rendering, progressive web apps, performance optimization, and testing. You'll gain the skills to build complex, production-ready web applications."
+      ],
+      "price": "50",
+      "totalSold": "100",
+      "totalEarned": "5000",
+      "studentCount": "67",
+      "trailer": "dQw4w9WgXcQ",
+      "chapters": [
+        {
+          "id": 1,
+          "courseId": "1",
+          "title": "Introduction to Web Development",
+          "description": "random content",
+          "video": "https://www.youtube.com/watch?v=8ZjFAhQjGzY&t=30s",
+          "isCompleted": true
+        },
+        {
+          "id": 2,
+          "courseId": "1",
+          "title": "HTML Fundamentals",
+          "description": "Learn the basics of HTML",
+          "video": "https://www.youtube.com/watch?v=8ZjFAhQjGzY&t=30s",
+          "isCompleted": true
+        },
+        {
+          "id": 3,
+          "courseId": "1",
+          "title": "CSS for Beginners",
+          "description": "Introduction to CSS",
+          "video": "https://www.youtube.com/watch?v=8ZjFAhQjGzY&t=30s",
+          "isCompleted": false
+        }
+      ],
+      "questionsAndAnswers": [
+        {
+          "question": "What is the main focus of this course?",
+          "answer": "The main focus is on understanding the fundamentals of React and building scalable web applications."
+        },
+        {
+          "question": "How long does the course take to complete?",
+          "answer": "The course is designed to be completed in 10 weeks with a commitment of 3-5 hours per week."
+        },
+        {
+          "question": "Are there any prerequisites for this course?",
+          "answer": "Basic knowledge of HTML, CSS, and JavaScript is recommended but not required."
+        }
+      ],
+      "reviews": [
+        {
+          "id": "1",
+          "courseId": "1",
+          "studentId": "2",
+          "courseName": "The Complete Web Development Bootcamp",
+          "studentName": "Clara White",
+          "review": "To set the value for data.video, you should provide the YouTube video ID of the course ",
+          "rate": "3",
+          "studentImage": "https://imgv3.fotor.com/images/slider-image/Female-portrait-picture-enhanced-with-better-clarity-and-higher-quality-using-Fotors-free-online-AI-photo-enhancer.jpg"
+        },
+        {
+          "id": "2",
+          "courseId": "1",
+          "studentId": "3",
+          "courseName": "The Complete Web Development Bootcamp",
+          "studentName": "Brian Taylor",
+          "review": "identifier that comes after the v= parameter in the YouTube vid",
+          "rate": "5",
+          "studentImage": "https://storage.googleapis.com/pfpai/styles/e0311f22-2642-4f56-8417-8c336ff0861f.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=headshotpro-backend-production%40stockai-362303.iam.gserviceaccount.com%2F20240508%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240508T024655Z&X-Goog-Expires=518400&X-Goog-SignedHeaders=host&X-Goog-Signature=3081fae15c56ec195688bb0b4208b72944b6b2f9d260a8081e9632fbc0773d993b5634ba489e5b89f3677387e77302b9861243a1dc7aaf036765624b3aea60155d09d12b84325824727e6a16167ecc63e3b68292708213b5c6293188a15b7e83cbfb3a1237eeb648427b848bb89ce0c4665a5532342bbbd8f6098eae3843ac2752c4aa8e8550a03da18c547aa491e3f91b79d9a9cdf9f0de1235b8e8cbe2e108d7b9c74c9d7942cec9af8df4214dfa16662eccae7adc679f9ea5a5b8e6a9599319e46666c560cb53a18ecf2a4a73332fd6ccf41150a9343f96e7f002704404bb57f5c61d031bfe62cc77b3933aaf1aca0f4aae7e0dabcd306826833eb9603c0c"
+        }
+      ],
+      "students": [
+        { "id": "2", "name": "Clara White" },
+        { "id": "3", "name": "Brian Taylor" }
+      ],
+      "resources": [
+        {
+          "id": "1",
+          "title": "resource1",
+          "link": "link1"
+        },
+        {
+          "id": "2",
+          "title": "resource2",
+          "link": "link2"
+        }
+      ],
+      "category": "Design",
+      "assignments": [
+        {
+          "id": "1",
+          "title": "assignment1",
+          "description": "random content",
+          "link": "link1"
+        },
+        {
+          "id": "2",
+          "title": "assignment2",
+          "description": "random content",
+          "link": "link2"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "1",
+          "title": "quiz1",
+          "description": "random content",
+          "questions": [
+            {
+              "id": "1",
+              "question": "question1",
+              "options": ["option1", "option2", "option3", "option4"],
+              "answer": "option1"
+            },
+            {
+              "id": "2",
+              "question": "question2",
+              "options": ["option1", "option2", "option3", "option4"],
+              "answer": "option2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "instructorId": "2",
+      "instructorName": "Clara White",
+      "title": "Advanced Python Programming",
+      "description": "Deep dive into Python programming concepts.",
+      "image": "https://th.bing.com/th/id/OIP.pQPDKrM62BeiVMLZUyLnpwHaDt?w=800&h=400&rs=1&pid=ImgDetMain",
+      "lessons": "20",
+      "rating": "4.5",
+      "InstructorPhoto": "instructor2.png",
+
+      "price": "70",
+      "totalSold": "150",
+      "totalEarned": "10500",
+      "studentCount": "200",
+      "trailer": "dQw4w9WgXcQ",
+      "chapters": [
+        {
+          "id": 1,
+          "courseId": "1",
+          "title": "Introduction to Web Development",
+          "description": "random content",
+          "video": "https://www.youtube.com/watch?v=8ZjFAhQjGzY&t=30s"
+        },
+        {
+          "id": 2,
+          "courseId": "1",
+          "title": "HTML Fundamentals",
+          "description": "Learn the basics of HTML",
+          "video": "https://www.youtube.com/watch?v=8ZjFAhQjGzY&t=30s"
+        },
+        {
+          "id": 3,
+          "courseId": "1",
+          "title": "CSS for Beginners",
+          "description": "Introduction to CSS",
+          "video": "https://www.youtube.com/watch?v=8ZjFAhQjGzY&t=30s"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "3",
+          "courseId": "2",
+          "studentId": "4",
+          "courseName": "Advanced Python Programming",
+          "studentName": "Derek Black",
+          "review": "excellent"
+        }
+      ],
+      "students": [{ "id": "4", "name": "Derek Black" }],
+      "resources": [
+        {
+          "id": "3",
+          "title": "Python Book",
+          "link": "pythonbooklink"
+        }
+      ],
+      "category": "Design",
+      "assignments": [
+        {
+          "id": "3",
+          "title": "Data Handling in Python",
+          "description": "Learn to manage data with Python.",
+          "link": "datahandlinglink"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "2",
+          "title": "Python Mastery Quiz",
+          "description": "Test your knowledge of advanced Python.",
+          "questions": [
+            {
+              "id": "3",
+              "question": "What is a lambda function?",
+              "options": [
+                "Anonymous function",
+                "Named function",
+                "Python module",
+                "None of the above"
+              ],
+              "answer": "Anonymous function"
+            },
+            {
+              "id": "4",
+              "question": "How do you create a virtual environment in Python?",
+              "options": [
+                "venv module",
+                "install Python",
+                "use an IDE",
+                "download a package"
+              ],
+              "answer": "venv module"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "instructorId": "3",
+      "instructorName": "Jenny Wilson",
+      "title": "Introduction to UI/UX Design",
+      "description": "Basics of designing engaging user interfaces and experiences.",
+      "image": "https://www.aceec.ac.in/wp-content/uploads/2020/06/ai-ml2.jpg",
+      "lessons": "15",
+      "rating": "5",
+      "InstructorPhoto": "teacher.png",
+
+      "price": "60",
+      "totalSold": "200",
+      "totalEarned": "12000",
+      "studentCount": "102",
+      "trailer": "dQw4w9WgXcQ",
+      "chapters": [
+        {
+          "id": 1,
+          "courseId": "1",
+          "title": "Introduction to Web Development",
+          "description": "random content",
+          "video": "https://www.youtube.com/watch?v=8ZjFAhQjGzY&t=30s"
+        },
+        {
+          "id": 2,
+          "courseId": "1",
+          "title": "HTML Fundamentals",
+          "description": "Learn the basics of HTML",
+          "video": "https://www.youtube.com/watch?v=8ZjFAhQjGzY&t=30s"
+        },
+        {
+          "id": 3,
+          "courseId": "1",
+          "title": "CSS for Beginners",
+          "description": "Introduction to CSS",
+          "video": "https://www.youtube.com/watch?v=8ZjFAhQjGzY&t=30s"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "4",
+          "courseId": "3",
+          "studentId": "1",
+          "courseName": "Introduction to UI/UX Design",
+          "studentName": "Alice Johnson",
+          "review": "very helpful"
+        }
+      ],
+      "students": [{ "id": "1", "name": "Alice Johnson" }],
+      "resources": [
+        {
+          "id": "4",
+          "title": "UX Design Principles",
+          "link": "uxdesignprincipleslink"
+        }
+      ],
+      "category": "Design",
+      "assignments": [
+        {
+          "id": "4",
+          "title": "Create a User Persona",
+          "description": "Develop a detailed user persona for a fictional application.",
+          "link": "userpersonalink"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "3",
+          "title": "Basic Principles of UI/UX",
+          "description": "Assess your understanding of core UI/UX principles.",
+          "questions": [
+            {
+              "id": "5",
+              "question": "What is the primary focus of User Experience Design?",
+              "options": [
+                "Visual design",
+                "Backend processing",
+                "User satisfaction",
+                "Marketing strategies"
+              ],
+              "answer": "User satisfaction"
+            },
+            {
+              "id": "6",
+              "question": "Which tool is commonly used for UI design?",
+              "options": ["Adobe XD", "Microsoft Word", "AutoCAD", "Eclipse"],
+              "answer": "Adobe XD"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

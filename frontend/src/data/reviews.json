@@ -1,0 +1,12 @@
+{
+  "reviews": [
+    {
+      "id": "1",
+      "courseId": "1",
+      "studentId": "1",
+      "courseName": "Web Development",
+      "studentName": "Alice Johnson",
+      "review": "very helpful"
+    }
+  ]
+}

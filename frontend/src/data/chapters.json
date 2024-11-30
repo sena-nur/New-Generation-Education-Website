@@ -1,0 +1,81 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "courseId": "1",
+      "title": "Introduction to Web Development",
+      "description": "random content",
+      "video": "video1"
+    },
+    {
+      "id": 2,
+      "courseId": "1",
+      "title": "HTML Fundamentals",
+      "description": "Learn the basics of HTML",
+      "video": "video2"
+    },
+    {
+      "id": 3,
+      "courseId": "1",
+      "title": "CSS for Beginners",
+      "description": "Introduction to CSS",
+      "video": "video3"
+    },
+    {
+      "id": 4,
+      "courseId": "2",
+      "title": "JavaScript Basics",
+      "description": "Getting started with JavaScript",
+      "video": "video4"
+    },
+    {
+      "id": 5,
+      "courseId": "2",
+      "title": "Advanced JavaScript",
+      "description": "Deep dive into JavaScript",
+      "video": "video5"
+    },
+    {
+      "id": 6,
+      "courseId": "3",
+      "title": "Server-side Programming",
+      "description": "Introduction to server-side languages",
+      "video": "video6"
+    },
+    {
+      "id": 7,
+      "courseId": "3",
+      "title": "Databases for Web Developers",
+      "description": "Understanding databases",
+      "video": "video7"
+    },
+    {
+      "id": 8,
+      "courseId": "4",
+      "title": "Integrating APIs",
+      "description": "How to integrate various APIs",
+      "video": "video8"
+    },
+    {
+      "id": 9,
+      "courseId": "4",
+      "title": "Responsive Design",
+      "description": "Making websites responsive",
+      "video": "video9"
+    },
+    {
+      "id": 10,
+      "courseId": "4",
+      "title": "Web Security Essentials",
+      "description": "Basics of securing web applications",
+      "video": "video10"
+    },
+    {
+      "id": 11,
+      "courseId": "4",
+      "title": "Advanced CSS Techniques",
+      "description": "Explore advanced CSS styling",
+      "video": "video11"
+    }
+  ]
+}

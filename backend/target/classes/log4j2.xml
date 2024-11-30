@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn" monitorInterval="30">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <JsonLayout compact="true" eventEol="true">
+                <KeyValuePair key="timestamp" value="$${date:yyyy-MM-dd HH:mm:ss}"/>
+                <KeyValuePair key="request-id" value="$${ctx:X-Request-ID:--}"/>
+            </JsonLayout>
+        </Console>
+    </Appenders>
+    <Loggers>
+        <Logger name="galaksiya.deepin" level="${env:LOG_LEVEL:-debug}" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+        <Logger name="org.springframework" level="${env:SPRING_LOG_LEVEL:-${env:LOG_LEVEL:-error}}" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+        <Root level="off">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>

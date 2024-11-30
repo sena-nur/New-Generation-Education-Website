@@ -1,0 +1,90 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "photo": "https://cdn.pixabay.com/photo/2023/07/14/02/47/ai-generated-8126161_1280.png",
+      "email": "alicejohnson@gmail.com",
+      "password": "123456",
+      "phone": "1234567890",
+      "birth": "1990-01-01",
+      "gender": "female",
+      "location": "New York, USA",
+      "website": "www.alicejohnson.com",
+      "isMentor": true,
+      "profession": "Web Developer",
+      "info": "I am a professional web developer with 10 years of experience. I love teaching and helping others learn new skills.",
+      "image": "webdev.jpg",
+      "experience": "10 years",
+      "mentorPrice": 50
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "photo": "https://img.freepik.com/premium-photo/portrait-attractive-beautiful-teacher-with-glasses-classroom-people-school-background_948175-2006.jpg",
+      "email": "bobsmith@example.com",
+      "password": "password123",
+      "phone": "0987654321",
+      "birth": "1985-05-15",
+      "gender": "male",
+      "location": "California, USA",
+      "website": "www.bobsmith.com",
+      "isMentor": true,
+      "profession": "Graphic Designer",
+      "info": "Experienced Graphic Designer with over 15 years in the industry. Passionate about design and creativity.",
+      "image": "design.jpg",
+      "experience": "15 years",
+      "mentorPrice": 70
+    },
+    {
+      "id": 3,
+      "name": "Cindy Lee",
+      "photo": "https://th.bing.com/th/id/OIP.TPu5QUrlJSdiieW37lDLVAHaE7?rs=1&pid=ImgDetMain",
+      "email": "cindylee@example.com",
+      "password": "securepass456",
+      "phone": "1122334455",
+      "birth": "1988-12-30",
+      "gender": "female",
+      "location": "Texas, USA",
+      "website": "www.cindylee.com",
+      "isMentor": true,
+      "profession": "Software Engineer",
+      "info": "Dedicated Software Engineer with a decade of experience in multiple programming languages.",
+      "image": "engineer.jpg",
+      "experience": "10 years",
+      "mentorPrice": 60
+    },
+    {
+      "id": 4,
+      "name": "David Park",
+      "photo": "https://img.freepik.com/premium-photo/portrait-male-teacher-class-with-his-students-generative-ai_1033022-1096.jpg",
+      "email": "davidpark@example.com",
+      "password": "mypassword789",
+      "phone": "5566778899",
+      "birth": "1979-11-11",
+      "gender": "male",
+      "location": "Florida, USA",
+      "website": "www.davidpark.com",
+      "isMentor": true,
+      "profession": "Data Scientist",
+      "info": "I have 20 years of experience in data analysis and machine learning. I enjoy sharing knowledge and insights.",
+      "image": "data.jpg",
+      "experience": "20 years",
+      "mentorPrice": 80,
+      "students": [
+        { "id": "1", "name": "Alice Johnson" },
+        { "id": "2", "name": "Bob Smith" },
+        { "id": "3", "name": "Cindy Lee" }
+      ],
+      "courses": [
+        { "id": "1", "title": "Web Development", "content": "Web Development" },
+        { "id": "2", "title": "Graphic Design", "content": "Graphic Design" },
+        {
+          "id": "3",
+          "title": "Software Engineering",
+          "content": "Software Engineering"
+        }
+      ]
+    }
+  ]
+}
